@@ -1,1 +1,2 @@
 # Sad_Lucile
+#This is the story of a little girl whose parents keep on fighting. Sad, she tries to keep herself happy by playing with her favorite toy : a small dinosaure. But sometimes it gets too much to bear for her. When that happens, using her imagination, she escapes into painting placed around her living room. There she walks around those paiting's world. Each painting is a world the player must complete to get away from the parents' figthing. The game is a small platformer in 2D side scrolling.
