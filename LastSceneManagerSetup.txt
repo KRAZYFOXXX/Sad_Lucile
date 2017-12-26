@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/todo - 1ere animation.unity
+  isLoaded: 1
+  isActive: 1
